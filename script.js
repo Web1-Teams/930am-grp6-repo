@@ -109,7 +109,7 @@ document.querySelector('.subscribe-section form').addEventListener('submit', fun
     } else {
         alert('يرجى إدخال بريد إلكتروني صالح.');
     }
-});
+}   );
 
 const podcasts = document.querySelectorAll('.podcast');
 
