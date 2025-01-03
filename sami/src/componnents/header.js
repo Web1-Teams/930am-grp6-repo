@@ -3,6 +3,7 @@ import "../App.css"; // انقل تنسيق الهيدر هنا
 import logo from "./logo3.png";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faStream,faHome,faBrain,faUserMd,faPodcast} from "@fortawesome/free-solid-svg-icons";
+
 const Header = () => {
   return (
     <header>
@@ -26,7 +27,6 @@ const Header = () => {
             <li>
               <a href="patterns.html">
               <FontAwesomeIcon icon={faStream} /> الأنماط الفكرية
-
               </a>
             </li>
             <li>

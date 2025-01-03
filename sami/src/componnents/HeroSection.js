@@ -1,6 +1,5 @@
 import React from "react";
 import "../App.css"; // انقل تنسيق الهيرو سيكشن هنا
-
 const HeroSection = ({ title, content }) => {
   return (
     <section className="hero heroright">
