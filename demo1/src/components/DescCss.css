@@ -1,0 +1,8 @@
+.DescCss{
+    justify-content: space-between;
+    align-items: center;
+    display:flow-root;
+    
+    background-color: aquamarine;
+    
+}

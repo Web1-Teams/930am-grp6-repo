@@ -1,0 +1,9 @@
+.NavBar {
+    background-color: aquamarine;
+    padding: 10px 80px 10px 300px; 
+       margin-bottom: 50;
+        display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10;
+}
