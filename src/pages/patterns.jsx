@@ -65,7 +65,7 @@ const patterns = [
 
   {
     image:
-      "https://files.oaiusercontent.com/file-8zGkQdBgpAfmbhEixhWUhQ?se=2025-01-03T18%3A45%3A14Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D8422cfc3-c82f-41fa-b436-2a378519c45f.webp&sig=9zcuVZFJ7FGeGQMaGuzQJM6AVbL%2B7vKwjiYPy1ppEfA%3D",
+      "https://i.ytimg.com/vi/1aAaq5loZ1g/maxresdefault.jpg",
     title: "ابدأ بالأهم قبل المهم",
     description: "تحديد أولويات العمل الذي تهدف إلى تحقيقه",
     description2:
@@ -76,7 +76,7 @@ const patterns = [
   },
   {
     image:
-      "https://files.oaiusercontent.com/file-P9aQdGULHmNQRtcS8qVvcj?se=2025-01-03T18%3A46%3A27Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Dc616600c-1c18-4a8e-96da-e87d1b074b1a.webp&sig=swqcthlNHF3GT3SlESdWpMC2XnFQg46oRAT7jiyNSWU%3D",
+      "https://static.sayidaty.net/styles/1375_scale/public/2023-11/302098.jpg",
     title: "العادات الذرية",
     description: "تغيير العادات تدريجيًاو بناء أنظمة فعالة",
     description2:
